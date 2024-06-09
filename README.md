@@ -1,6 +1,6 @@
 # Modelagem de E-commerce
 
-Este projeto de e-commerce visa criar uma pequena plataforma online para a venda de produtos, abrangendo desde o cadastro de clientes, produtos e fornecedores até a gestão de pedidos, pagamentos e entregas.
+Esta modelagem de e-commerce visa criar uma pequena plataforma online para a venda de produtos, abrangendo desde o cadastro de clientes, produtos e fornecedores até a gestão de pedidos, pagamentos e entregas.
 
 ## Modelagem de Dados
 
